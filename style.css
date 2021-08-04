@@ -1,0 +1,10 @@
+body{background-size: cover;}
+.heading{width: 100%;margin: 0px;color: azure;font-size: 20px;box-shadow: 5px 5px 5px redeeeeee}
+.note{font-size: 15px;color: black;}
+#play{width: 20%;font-size: 20px;box-shadow: 5px 5px 5px red}
+.speed{float: left;}
+.volume{float: right;}
+img{width: 200px;
+border-radius: 100px;}
+#increase_speed,#increase_volume{width: 100%;font-size: 20px;box-shadow: 5px 5px 5px red;}
+canvas{border: 5px ridge white;box-shadow: 5px 5px 5px red;}
